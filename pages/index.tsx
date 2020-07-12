@@ -1,4 +1,4 @@
-import { NotionRenderer, BlockMapType } from "../package/react-notion/src";
+import { NotionRenderer, BlockMapType } from "../react-notion/src";
 import Head from "next/head";
 import fetch from "node-fetch";
 
